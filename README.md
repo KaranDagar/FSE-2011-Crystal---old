@@ -42,7 +42,7 @@ FSE-2011-Crystal
 
 This repository contains information related to the tool Crystal, which helps developers learn about and prevent collaborative conflicts. The paper was presented at FSE, 2011. The tool was originally presented in this <a href="http://dl.acm.org/citation.cfm?id=2025187">paper</a>.
 
-This repository _is not_ the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool.
 
 The Original GitHub page for Crystal made by the authors of the tool. (See the <a href="https://github.com/brunyuriy/crystalvc">Original Github Page</a>.)
 
