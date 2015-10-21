@@ -43,6 +43,9 @@ FSE-2011-Crystal
 This repository contains information related to the tool Crystal, which helps developers learn about and prevent collaborative conflicts. The paper was presented at FSE, 2011. The tool was originally presented in this <a href="http://dl.acm.org/citation.cfm?id=2025187">paper</a>.
 The Original GitHub page for Crystal made by the authors of the tool. (See the <a href="https://github.com/brunyuriy/crystalvc">Original Github Page</a>.)
 
+Disclaimer:
+This repository _is not_ the original repository for this tool.
+
 In this repository, for Crystal you will find:
 
 :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2011-Crystal/tree/master/src/crystal) ( available)
@@ -53,8 +56,6 @@ In this repository, for Crystal you will find:
 
 This repository was constructed by [Karan Singh Dagar](https://github.com/KaranDagar) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Yuriy Brun , Reid Holmes , Michael D. Ernst and David Notkin for their help in establishing this repository.
 
-## Disclaimer ##
 
-This repository _is not_ the original repository for this tool.
 
 
