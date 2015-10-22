@@ -38,21 +38,20 @@ This work is supported by Microsoft Research through the Software Engineering In
 
 ##Acknowledgements by Karan Singh Dagar##
 
-FSE-2011-Crystal
+#FSE-2011-Crystal
 
-This repository contains information related to the tool Crystal, which helps developers learn about and prevent collaborative conflicts. The paper was presented at FSE, 2011. The tool was originally presented in this [paper] (http://people.cs.umass.edu/~brun/pubs/pubs/Brun11fse-tool-demo.pdf).
-The Original GitHub page for Crystal made by the authors of the tool. (See the <a href="https://github.com/brunyuriy/crystalvc">Original Github Page</a>.)
+This repository contains information related to the tool Crystal presented at Foundations of Software Engineering, 2011. The tool was originally presented in [this paper.] (http://dl.acm.org/citation.cfm?id=2025113.2025187&coll=DL&dl=GUIDE&CFID=723118469&CFTOKEN=55593935).
+ 
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
-Disclaimer:
-This repository _is not_ the original repository for this tool.
+* [A video of the tool] (http://people.cs.umass.edu/~brun/video/Brun11esecfse/)
+* [The original Github page] (https://github.com/brunyuriy/crystalvc)
 
 In this repository, for Crystal you will find:
 
 :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/FSE-2011-Crystal/tree/master/src/crystal) ( available)
 
 :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/FSE-2011-Crystal) (available)
-
-:white_check_mark: [Video presentation related to Crystal](http://people.cs.umass.edu/~brun/video/Brun11esecfse/) (available)
 
 This repository was constructed by [Karan Singh Dagar](https://github.com/KaranDagar) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Yuriy Brun , Reid Holmes , Michael D. Ernst and David Notkin for their help in establishing this repository.
 
